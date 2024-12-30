@@ -68,7 +68,7 @@ author:
       url: "https://www.linkedin.com/in/raymondtan676/"
     - label: "Resume"
       icon: "fas fa-paperclip"
-      url: "../../../../../raymond.pdf"
+      url: "/raymond.pdf"
 
 footer:
   links:
