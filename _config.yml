@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal blog for Raymond Tan. Contains CTF writeups from platforms like HackTheBox.
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
